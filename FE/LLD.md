@@ -174,7 +174,7 @@ These are **most likely**.
 
 ---
 
-## 🔥 PayPal “Hidden” Follow-up Questions
+## 🔥 “Hidden” Follow-up Questions
 
 After coding, expect these:
 
