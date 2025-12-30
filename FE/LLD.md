@@ -2,7 +2,7 @@ This is based on **real FE interviews** and expectations for **Senior Frontend E
 
 ---
 
-# PayPal Frontend Machine Coding – Practice Questions
+# Frontend Machine Coding – Practice Questions
 
 > **Time:** 60–90 mins
 > **Focus:** UI logic, clean code, LLD thinking, edge cases
