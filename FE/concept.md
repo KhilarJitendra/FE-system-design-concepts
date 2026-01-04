@@ -33,8 +33,8 @@
 
 ### Real-time Data
 
-* Short polling
-* Long polling
+* Short polling (e.g Train / Bus arrival app, E-commerce order status page)
+* Long polling (e.g whats app , Notification system (before WebSockets)
 * WebSockets
 * Server-Sent Events (SSE)
 
