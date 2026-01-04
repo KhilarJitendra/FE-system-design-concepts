@@ -29,7 +29,7 @@
 
 ---
 
-## 2. Communication Techniques
+## 2. Communication Techniques (check this - https://www.youtube.com/watch?v=M2RpzmyKfvQ)
 
 ### Real-time Data
 
@@ -46,7 +46,7 @@
 
 ---
 
-## 3. API & Data Layer
+## 3. API & Data Layer (Check this - https://www.youtube.com/watch?v=M2RpzmyKfvQ)
 
 ### API Styles
 
@@ -57,6 +57,9 @@
   * Batching
   * Over-fetching vs under-fetching
 * gRPC (less common in FE, but good to mention)
+   - trpc
+     - no need to write heavy API end point
+     - Just wrtite function n BE and call from FE same function (but behind the scene it will done via HTTP) somehow simillar to SDK
 
 ### Headers & Contracts
 
