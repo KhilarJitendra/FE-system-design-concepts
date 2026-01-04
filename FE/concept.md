@@ -60,7 +60,7 @@
 * trpc
      - no need to write heavy API end point
      - Just wrtite function n BE and call from FE same function (but behind the scene it will done via HTTP) somehow simillar to SDK
-     - best for cleint and server
+     - best for client and server
 
 ### Headers & Contracts
 
