@@ -216,3 +216,34 @@
 - Performance - https://www.youtube.com/watch?v=zAEy0jchvH8&t=3743s
 - Communication - https://www.youtube.com/watch?v=M2RpzmyKfvQ&t=458s
 - RADIO FRAMEWORK - https://www.greatfrontend.com/front-end-system-design-playbook/framework
+
+--
+ANSWERS
+--
+
+1. How the Web Works
+
+<img width="389" height="717" alt="Screenshot 2026-01-04 at 2 35 47 PM" src="https://github.com/user-attachments/assets/37188d4f-2b92-4e67-93cd-59a5207a1ebd" />
+
+- TLS encryption and TCP transmission happen at both endpoints. The client encrypts HTTP data before sending it over TCP, and the server decrypts it after TCP reassembly. The server then encrypts the response and sends it     back the same way
+
+- Before making a request, the browser checks cache. If there’s a miss, it tries to reuse an existing TCP/TLS connection. Only if that’s not possible does it perform DNS lookup and new handshakes before sending the HTTP request.
+
+- HTTP  → defines WHAT data looks like
+- TLS   → encrypts the data (only if we have https)
+- TCP   → delivers the data reliably
+- IP    → routes the packets
+
+
+
+
+
+
+
+
+
+
+
+
+
+
