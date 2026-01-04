@@ -56,10 +56,11 @@
   * Query vs Mutation
   * Batching
   * Over-fetching vs under-fetching
-* gRPC (less common in FE, but good to mention)
-   - trpc
+* gRPC (less common in FE, but good to mention) best for communicate between two micro services
+* trpc
      - no need to write heavy API end point
      - Just wrtite function n BE and call from FE same function (but behind the scene it will done via HTTP) somehow simillar to SDK
+     - best for cleint and server
 
 ### Headers & Contracts
 
