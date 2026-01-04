@@ -21,7 +21,7 @@
 * Layout → Paint → Composite
 * Reflow vs Repaint (when & why they happen)
 
-### Web Workers
+### Web Workers (chgeck this - https://www.youtube.com/watch?v=k2RmGMwBPbs)
 
 * Offload heavy computation
 * No DOM access
