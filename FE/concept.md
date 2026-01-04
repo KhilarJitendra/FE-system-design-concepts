@@ -13,7 +13,7 @@
 * HTTP request/response lifecycle
 * Browser caching & connection reuse
 
-### Rendering of a Web Page
+### Rendering of a Web Page (Check this - https://www.youtube.com/watch?v=PK4bzxWLOfo )
 
 * HTML → DOM
 * CSS → CSSOM
