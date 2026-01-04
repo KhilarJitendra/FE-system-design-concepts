@@ -62,6 +62,18 @@
      - Just wrtite function n BE and call from FE same function (but behind the scene it will done via HTTP) somehow simillar to SDK
      - best for client and server
 
+```
+tRPC (Typical)
+Frontend ─────▶ Backend (one app)
+              (monolith or small backend)
+
+gRPC (Typical)
+Service A ─▶ Service B ─▶ Service C
+(Java)        (Go)         (Node)
+
+```
+
+
 ### Headers & Contracts
 
 * Authorization headers
