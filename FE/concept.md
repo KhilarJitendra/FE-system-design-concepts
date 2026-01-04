@@ -35,7 +35,7 @@
 
 * Short polling (e.g Train / Bus arrival app, E-commerce order status page)
 * Long polling (e.g whats app , Notification system (before WebSockets)
-* WebSockets
+* WebSockets (multiple HTTP connection if we are using Polling so use websocket single HTTP connection)
 * Server-Sent Events (SSE)
 
 ### When to Use What
