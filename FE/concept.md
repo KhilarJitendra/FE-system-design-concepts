@@ -36,7 +36,8 @@
 * Short polling (e.g Train / Bus arrival app, E-commerce order status page)
 * Long polling (e.g whats app , Notification system (before WebSockets)
 * WebSockets (multiple HTTP connection if we are using Polling so use websocket single HTTP connection)
-* Server-Sent Events (SSE)
+* Server-Sent Events (SSE) (e.g - Order Status Page, server , one single HTTP connection, server to client happens, once brower close it looses connection)
+* Web Hooks - A webhook is when one system calls your server to tell you something happened. Like Payment done stripe notifies your BE with meta data (also added signature)
 
 ### When to Use What
 
