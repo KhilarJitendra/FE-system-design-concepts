@@ -88,7 +88,7 @@ Service A ─▶ Service B ─▶ Service C
 
 ### What to Measure
 
-* FCP, LCP, CLS, TTI
+* FCP, LCP, CLS, TTI - https://github.com/KhilarJitendra/web-vitals/blob/main/WebVitals.md
 * Bundle size
 * API latency
 * Interaction delay
@@ -101,12 +101,15 @@ Service A ─▶ Service B ─▶ Service C
 * JavaScript optimization
 * React / Framework optimization
 
-### Rendering Patterns
+### Rendering Patterns (watch this playlist - https://www.youtube.com/watch?v=fRgAI3FiYHc)
 
+* pre render or no pre render
 * CSR
 * SSR
 * SSG
 * RSC (React Server Components)
+
+N.B - For LLD or HLD you can think of these pattern that suited best for application
 
 ### Tools
 
