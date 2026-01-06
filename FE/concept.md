@@ -120,7 +120,7 @@ N.B - For LLD or HLD you can think of these pattern that suited best for applica
 
 ---
 
-## 6. Caching Strategies
+## 6. Caching Strategies (Link - https://github.com/KhilarJitendra/javascript-extra/blob/main/caching.md)
 
 ### Client-side
 
